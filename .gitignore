@@ -1,0 +1,6 @@
+data/mask_train_tiles/
+data/mask_test_tiles/
+data/train_tiles/
+data/test_tiles/
+mask_image/
+satellite_images_reduced/
